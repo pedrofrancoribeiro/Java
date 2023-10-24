@@ -2,12 +2,12 @@
 
 ## Códigos utilizados no curso:
 
-1. exemplo001: <br/>
+1. exemplo 1: <br/>
     **Diretório:** /java/src/classe/ <br />
     **Arquivo:** Data.java <br />
     **Asusnto:** Classes e métodos
 
-2. exemplo002: <br/>
+2. exemplo 2: <br/>
     **Diretório:** /java/src/classe/ <br />
     **Arquivo:** Prouto.java <br />
     **Asusnto:** Classes e métodos
