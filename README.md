@@ -1,6 +1,6 @@
 # Java
 
-## Códigos utilizados durante a aprendizagem Java.
+## Códigos utilizados no curso:
 
 1. exemplo001: <br/>
     **Diretório:** /java/src/classe/ <br />
